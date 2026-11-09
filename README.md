@@ -10,8 +10,6 @@ A custom-engineered 3.5 kg radial hexacopter platform designed for high-current 
 > 
 ![Fully Integrated Hexacopter](assembled_platform.jpeg)
 *Figure 1: Fully integrated radial hexacopter platform showing prop clearance and mast-isolated GPS.*
-![Fully Integrated Hexacopter](assembled_platform.jpeg)
-*Figure 1: Fully integrated radial hexacopter platform showing prop clearance and mast-isolated GPS.*
 
 ---
 
