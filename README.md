@@ -19,7 +19,8 @@ A custom-engineered 3.5 kg radial hexacopter platform designed for high-current 
 
 | Parameter | Specification | Engineering Justification |
 | :--- | :--- | :--- |
-| **Chassis Class / Configuration** | Radial Hexacopter (~680mm diagonal) | Redundant 6-axis attitude authority |
+| **Chassis Class / Configuration** | Radial Hexacopter (1150 mm tip-to-tip prop span, ~770 mm motor-to-motor wheelbase) | Enterprise-scale disc area; redundant 6-axis attitude authority |
+
 | **All-Up Weight (AUW)** | ~3.5 kg (Chassis, Powertrain, Avionics, LiPo) | Optimized structural-to-payload mass ratio |
 | **Powertrain Architecture** | 6S LiPo (22.2V nominal) | Low current draw per unit power (P = V × I) |
 | **Motors** | 6x 5010 750KV Brushless DC (BLDC) | Low-KV, high-torque direct propeller drive |
