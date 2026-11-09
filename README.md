@@ -6,6 +6,8 @@ A custom-engineered 3.5 kg radial hexacopter platform designed for high-current 
 [![CAD Platform](https://img.shields.io/badge/CAD-Autodesk%20Fusion%20360-orange)](https://youtu.be/KiL82UazYHw?si=R5Tr-NP9oHPhAmuw)
 [![Autopilot](https://img.shields.io/badge/Avionics-ArduPilot%20%7C%20Pixhawk-blue)](https://youtu.be/KiL82UazYHw?si=R5Tr-NP9oHPhAmuw)
 
+> 🛠️ **Design & Fabrication Deep-Dive:** For the chronological progression from initial slotted CAD and acrylic mockups to the final aluminum frame, see the **[Visual Prototyping Build Log →](BUILD_LOG.md)**
+> 
 ![Fully Integrated Hexacopter](assembled_platform.jpeg)
 *Figure 1: Fully integrated radial hexacopter platform showing prop clearance and mast-isolated GPS.*
 ![Fully Integrated Hexacopter](assembled_platform.jpeg)
